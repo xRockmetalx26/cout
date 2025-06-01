@@ -1,6 +1,6 @@
 name: cout
 description: Cout for Dart.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/xRockmetalx26/cout
 
 environment:
@@ -9,5 +9,3 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-
